@@ -1,0 +1,101 @@
+body{
+  flex-flow: row wrap;
+  margin: 0px;
+  background-color: grey;
+  padding: 0px 30px 0px 30px;
+  text-align: justify;
+  font-family: Times New Roman;
+}
+.corpo{
+  text-indent: 20px;
+}
+a.link1{
+ text-indent: 0px;
+ position: relavive;
+ left: 0px;
+ width: 100%;
+ background-color: defoult; 
+ border: 2px solid;
+ border-radius: 7px;
+ color: black;
+ padding: 5px;
+ text-decoration: none;
+ box-shadow: 7px;
+ cursor: wait;
+}
+a.link2{
+ width: 100%;
+ background-color: defoult; 
+ border-radius: 7px;
+ color: black;
+ padding: 5px;
+ text-decoration: none;
+ cursor: wait;
+ text-align: center;
+ display: inline-block;
+}
+a.link3{
+  width: 100%;
+  background-color: defoult; 
+ border: 2px solid;
+ border-radius: 7px;
+ color: black;
+ padding: 5px;
+ text-decoration: none;
+  cursor: wait;
+}
+a.link4{
+  width: 100%;
+  background-color: defoult; 
+ border: 2px solid;
+ border-radius: 7px;
+ color: black;
+ padding: 5px;
+ text-decoration: none;
+ cursor: wait;
+}
+a.link5{
+  width: 100%;
+  background-color: defoult; 
+ border: 2px solid;
+ border-radius: 7px;
+ color: black;
+ padding: 5px;
+ text-decoration: none;
+  cursor: wait;
+}
+a.link6{
+  width: 400px;
+  background-color: defoult; 
+ border: 2px solid;
+ border-radius: 7px;
+ color: black;
+ padding: 5px;
+ text-decoration: none;
+  cursor: wait;
+}
+a:hover{
+  color: white;
+}
+p:p3{
+  display: inline-block;
+}
+img:img3{
+  display: inline-block;
+}
+footer{
+  background-color: #666;
+  color: black;
+  text-align: center;
+  height: 190px;
+  width: 100%;
+  text-decoration: none;
+}
+img{
+  flex-grow: 1px;
+  flex-flow: ;
+  max-width: 1200px;
+  align-content: center !important;
+  
+}
+
